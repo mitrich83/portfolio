@@ -33,7 +33,7 @@ export const Main = () => {
                                 src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRV2ZDTrkVnPmJxKbml0CHQGrt0MtWNfJJuT-SD29F0WoTqZrHF7AbbtOMn9jj4bFwbDJs&usqp=CAU"
                                 alt="github"/>
                         </a>
-                        <a href={'https://github.com/mitrich83?tab=repositories'}>
+                        <a href={'https://mitrich83.github.io/portfolio/'}>
                             <img
                                 style={{width: 50}}
                                 src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4wuhoyUNYBGN-6cGSozr3Mm8z4-Cvioenb1xtUpNm7HyaBIxAilE8l0AAkf6nyb-8o5c&usqp=CAU"
