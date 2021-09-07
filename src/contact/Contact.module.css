@@ -1,0 +1,17 @@
+
+.contactBlock {
+    height: 100vh;
+    background-color: lightseagreen;
+}
+
+.contact {
+    flex-direction: column;
+    justify-content: flex-start;
+}
+.form {
+    height: 40%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: flex-end;
+}
