@@ -2,14 +2,11 @@ import React from 'react';
 import s from './Contact.module.css';
 import styleContainer from './../common/styles/Style.module.css'
 
-
 export const Contact = () => {
-
     return (
         <div className={s.contactBlock}>
             <div className={` ${styleContainer.container} 
                               ${s.contact}`}>
-
                 <h3> Contact with me </h3>
                 <form className={s.form}>
                     <label>
@@ -22,16 +19,11 @@ export const Contact = () => {
                     </label>
                     <label className={s.description}>
                         Discription:
-                       <textarea />
+                        <textarea/>
                     </label>
-
                     <input type="submit" value="Submit"/>
-
-
                 </form>
             </div>
         </div>
-
     )
-
 }

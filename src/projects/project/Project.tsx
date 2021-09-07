@@ -31,5 +31,4 @@ export const Project = (props:ProjectPropsType) => {
             <span className={s.description}>{props.description}</span>
         </div>
     )
-
 }

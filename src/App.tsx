@@ -7,7 +7,6 @@ import {Projects} from './projects/Projects';
 import {Footer} from './footer/Footer';
 import {Contact} from './contact/Contact';
 
-
 function App() {
     return (
         <div className="App">

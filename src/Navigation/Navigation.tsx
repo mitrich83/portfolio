@@ -10,5 +10,4 @@ export const Navigation = ()=> {
             <a href="">Contacts</a>
         </div>
     )
-
 }

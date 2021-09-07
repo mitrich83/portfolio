@@ -19,7 +19,7 @@ export const Projects = () => {
                     />
                     <Project title={'Todolist'}
                              description={'Summary: Simple and straightforward, Ta-da List is like your basic paper to-do list, only electronic!'
-                            }
+                             }
                              icon={'https://store-images.s-microsoft.com/image/apps.31700.13510798885086337.ecb4d76e-fc1d-4fde-be50-82b1ec4c01a5.188114c7-6eb6-4266-a720-6c32607f6078?mode=scale&q=90&h=1080&w=1920'}
                              gitHub={'https://github.com/mitrich83/Todolist'}
                              gitHubPages={''}
@@ -37,5 +37,4 @@ export const Projects = () => {
             </div>
         </div>
     )
-
 }

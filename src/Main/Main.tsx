@@ -14,7 +14,6 @@ export const Main = () => {
                     <p>
                         Front-end Developer (React/TypeScript)
                     </p>
-
                 </div>
                 <div className={s.mainPhoto}>
                     <img
@@ -24,27 +23,25 @@ export const Main = () => {
                         <a href={''}>
                             <img className={s.linkedIn}
                                  style={{width: 50}}
-                                src="https://play-lh.googleusercontent.com/kMofEFLjobZy_bCuaiDogzBcUT-dz3BBbOrIEjJ-hqOabjK8ieuevGe6wlTD15QzOqw"
-                                alt="LinkedIn"/>
+                                 src="https://play-lh.googleusercontent.com/kMofEFLjobZy_bCuaiDogzBcUT-dz3BBbOrIEjJ-hqOabjK8ieuevGe6wlTD15QzOqw"
+                                 alt="LinkedIn"/>
                         </a>
 
                         <a href={'https://github.com/mitrich83/portfolio'}>
                             <img
                                 style={{width: 50}}
-                                src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRV2ZDTrkVnPmJxKbml0CHQGrt0MtWNfJJuT-SD29F0WoTqZrHF7AbbtOMn9jj4bFwbDJs&usqp=CAU" alt="github"/>
+                                src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRV2ZDTrkVnPmJxKbml0CHQGrt0MtWNfJJuT-SD29F0WoTqZrHF7AbbtOMn9jj4bFwbDJs&usqp=CAU"
+                                alt="github"/>
                         </a>
                         <a href={'https://github.com/mitrich83?tab=repositories'}>
                             <img
                                 style={{width: 50}}
-                                src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4wuhoyUNYBGN-6cGSozr3Mm8z4-Cvioenb1xtUpNm7HyaBIxAilE8l0AAkf6nyb-8o5c&usqp=CAU" alt="github"/>
+                                src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR4wuhoyUNYBGN-6cGSozr3Mm8z4-Cvioenb1xtUpNm7HyaBIxAilE8l0AAkf6nyb-8o5c&usqp=CAU"
+                                alt="github"/>
                         </a>
                     </div>
-
-
-
                 </div>
             </div>
         </div>
     )
-
 }
