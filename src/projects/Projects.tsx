@@ -12,16 +12,13 @@ export const Projects = () => {
                 <h2 className={s.titleProject}>My Projects</h2>
                 <div className={s.projects}>
                     <Project title={'Social Network'}
-                             description={'Social media originated as a way to interact with friends and family but was later adopted by businesses that wanted to take advantage of a popular new communication method to reach out to customers. The power of social media is the ability to connect and share information with anyone on Earth, or with many people simultaneously'}
+                             description={'Social media originated as a way to interact with friends and family'}
                              icon={'https://previews.123rf.com/images/rawpixel/rawpixel1504/rawpixel150405509/38967820-social-network-social-media-business-people-technology-concept.jpg'}
                              gitHub={'https://github.com/mitrich83/Social_Network'}
                              gitHubPages={''}
                     />
                     <Project title={'Todolist'}
-                             description={'Summary: Simple and straightforward, Ta-da List is like your basic paper to-do list, only electronic!' +
-                             'How it Works: Check a box and the to-do is marked, "Done!"' +
-                             'Sharing: Keep your lists private, or share them with your friends, family, or co-worker'
-
+                             description={'Summary: Simple and straightforward, Ta-da List is like your basic paper to-do list, only electronic!'
                             }
                              icon={'https://store-images.s-microsoft.com/image/apps.31700.13510798885086337.ecb4d76e-fc1d-4fde-be50-82b1ec4c01a5.188114c7-6eb6-4266-a720-6c32607f6078?mode=scale&q=90&h=1080&w=1920'}
                              gitHub={'https://github.com/mitrich83/Todolist'}
