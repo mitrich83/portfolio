@@ -12,7 +12,6 @@ export const Contact = () => {
 
                 <h3> Contact with me </h3>
                 <form className={s.form}>
-
                     <label>
                         Name:
                         <input type="text" name="name"/>
@@ -21,7 +20,7 @@ export const Contact = () => {
                         email:
                         <input type="text" name="name"/>
                     </label>
-                    <label>
+                    <label className={s.description}>
                         Discription:
                        <textarea />
                     </label>

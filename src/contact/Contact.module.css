@@ -8,6 +8,7 @@
     flex-direction: column;
     justify-content: flex-start;
 }
+
 .form {
     height: 40%;
     display: flex;
@@ -15,3 +16,8 @@
     justify-content: space-around;
     align-items: flex-end;
 }
+
+.description {
+    display: flex;
+}
+
