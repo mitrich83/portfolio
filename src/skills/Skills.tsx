@@ -26,9 +26,10 @@ export const Skills = () => {
 
                     />
                     <Skill title={'Typescript'}
-                           description={'Course from IT-Incubator'}
+                           description={'Course from IT-IncubatorCourse from IT-Incubator'}
                            icon={'https://styles.redditmedia.com/t5_2v6gg/styles/communityIcon_4w7vh6c21f871.png'}
                     />
+
                 </div>
             </div>
         </div>
