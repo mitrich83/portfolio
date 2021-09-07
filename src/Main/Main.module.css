@@ -1,0 +1,34 @@
+.mainBlock {
+    height: 100vh;
+    background-color: darkblue;
+}
+
+.mainTitle {
+    width: 350px;
+    background-color: paleturquoise;
+}
+
+.social {
+    width: 100%;
+    background-color: yellowgreen;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 10px;
+
+}
+
+
+.mainPhoto {
+    display: flex;
+    flex-direction: column;
+
+}
+
+.mainPhoto img {
+    width: 250px;
+}
+
+.linkedIn {
+
+}

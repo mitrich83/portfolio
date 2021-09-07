@@ -1,0 +1,22 @@
+.skill {
+    border: 1px solid blue;
+    width: 270px;
+    background-color: darkkhaki;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+    text-align: center;
+  }
+
+.icon img {
+    width: 60px;
+}
+
+.titleSkill {
+    background-color: cornflowerblue;
+}
+
+.description {
+
+}
